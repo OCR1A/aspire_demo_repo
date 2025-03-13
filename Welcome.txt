@@ -6,3 +6,5 @@ Git
 Bitbucket
 GitHub
 GitLab
+
+This is the Welcome document pushed via "Guadalupe" branch and this file were merged to "Guadalupe" branch via "Alfredo's" branch
